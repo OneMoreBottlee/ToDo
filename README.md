@@ -3,7 +3,7 @@
 [스크린캐스트 2022년 10월 18일 14시 59분 58초.webm](https://user-images.githubusercontent.com/107466003/196349640-9df7cfce-390e-442c-80ac-f84543090d3f.webm)
 
 ## 현재 기능
-CRUD
+CRUD  
 
 ## 추가 (예정?) 기능
 v.1.0.1 기존 기능 개선  
